@@ -16,7 +16,7 @@ In this implementation, a **chromosome** is modeled as an **array of genes**, wh
 - The **sequence** of genes in the chromosome determines the **order of execution** for each job.  
 - The Genetic Algorithm manipulates these chromosomes to improve scheduling efficiency.  
 
-<img src="images/Chromosome.png" alt="Gantt Chart" width="400"/>
+<img src="images/Chromosome.png" alt="Gantt Chart" width="100"/>
 
 ## Job Representation  
 
