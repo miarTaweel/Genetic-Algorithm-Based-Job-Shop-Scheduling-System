@@ -38,6 +38,7 @@ Each job consists of **a sequence of operations**, represented as **tuples** con
 - `Customizable Parameters` – Allows users to adjust **mutation rates, crossover probabilities, and population size** for fine-tuning GA performance.  
 
 
+## Contact
 For any inquiries, reach out via:
 
 - Email: [miar.taweel04@gmail.com](mailto\:miar.taweel04@gmail.com)
