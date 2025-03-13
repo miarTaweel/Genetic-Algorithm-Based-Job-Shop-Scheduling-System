@@ -18,6 +18,7 @@ In this implementation, a **chromosome** is modeled as an **array of genes**, wh
 <div align="center">
 <img src="images/Chromosome.png" alt="Gantt Chart" width="400"/>
 </div>
+
 ## Job Representation  
 
 Each job consists of **a sequence of operations**, represented as **tuples** containing three key elements:  
