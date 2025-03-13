@@ -16,7 +16,7 @@ In this implementation, a **chromosome** is modeled as an **array of genes**, wh
 - The **sequence** of genes in the chromosome determines the **order of execution** for each job.  
 - The Genetic Algorithm manipulates these chromosomes to improve scheduling efficiency.  
 
-![Alt text](FromTubasToSalfit.png)
+![Alt text](images/Chromosome.png)
 
 ## Job Representation  
 
@@ -26,7 +26,7 @@ Each job consists of **a sequence of operations**, represented as **tuples** con
 - **Duration** – The time required to complete the operation on the assigned machine.  
 - **Operation Index** – Represents the **sequence** in which the job should be executed. This index links the job to a specific machine, determined by the number of times the job appears in the chromosome. It is **automatically indexed** in increasing order based on the number of operations.  
 
-![Alt text](FromTubasToSalfit.png)
+![Alt text](images/Job.png)
 
 
 ## Features  
